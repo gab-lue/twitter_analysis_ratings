@@ -7,3 +7,5 @@ There will be performed different steps:
 - data cleaning
 - data visualization
 - presenting data insights in a pdf file made with figma
+
+Check out act_report.pdf for the visuals :)
